@@ -94,7 +94,6 @@ function App() {
     </div>    
    <SingUp/>
     <Contact/>
-    <Footer/>
       </div>  
   );
 }
